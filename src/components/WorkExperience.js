@@ -18,7 +18,7 @@ export default function WorkExperience() {
         </div>
 
         <div className="work-experience">
-          <small className="date">2017-2015</small>
+          <small className="date">2020-2021</small>
           <h3 className="h5 date-title">
             Web developer -{' '}
             <a href="https://vouchagram.com/" title="Vouchagram India">
